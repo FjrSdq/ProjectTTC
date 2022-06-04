@@ -58,7 +58,7 @@ public class TicTacToe implements ActionListener {
         startGame();
     }
 
-    // Memanggil X atau O
+    // Summoning X or O
     @Override
     public void actionPerformed(ActionEvent e) {
 
